@@ -2,29 +2,24 @@
 
 
 
-<img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
+<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
+![](https://komarev.com/ghpvc/?username=viniciushgiovanini&color=blue&style=flat
 
 
 
 
 
-
-### ### Olá Bem Vindo 👋
+Olá Bem Vindo 👋
 
 <!--
-**viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-Here are some ideas to get you started:
+Sobre mim:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-  
+- 🗓 IDADE: 20 Anos
+- 🇧🇷 Cidade: BH|MG
+- 📖 CURSO: 2º Periodo - Ciência da Computação
+- 📌 FACULDADE: Pontíficia Universidade Católica
+- 🎮 HOBBES: Video Game, Músicas, Futebol
+- 📬 CONTATO: vgiovanini@sga.pucminas.br
