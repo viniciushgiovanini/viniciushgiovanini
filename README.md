@@ -2,7 +2,7 @@
 
 <h1> Olá Bem Vindo 👋 </h1>
 
-<img src="https://i.imgur.com/Foo0Vzp.png" width="500px" align="right"></h2>
+<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" align="right"></h2>
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -19,6 +19,9 @@ Sobre mim:
 - 📬 CONTATO: vgiovanini@sga.pucminas.br 
 
 
+Redes Socias:
+
+<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
 
 
 
