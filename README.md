@@ -29,11 +29,8 @@ Redes Socias:
 
 
 <center>
-<table>
     <tr>
-        <td><img width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>
-        
-    </tr>   
-</table>
+    <td><img width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>        
+    </tr>
 </center> 
 
