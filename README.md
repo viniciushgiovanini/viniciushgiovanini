@@ -19,7 +19,9 @@ Sobre mim:
 - 📬 CONTATO: vgiovanini@sga.pucminas.br 
 
 
- 
+<h1></h1>
+
+<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
 
 
 
