@@ -27,7 +27,7 @@ Sobre mim:
 
 
 
-<h1></h1>
+<td><h1></h1></td>
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
 
