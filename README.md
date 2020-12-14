@@ -25,7 +25,7 @@ Redes Socias: </h1>
 
 <a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [Twitter](https://twitter.com/vinyhg)
 
-<a <img src="https://i.imgur.com/U1A61no.jpg" width="20"</img></a> [EMAIL]
+<img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email] 
 
 
 
