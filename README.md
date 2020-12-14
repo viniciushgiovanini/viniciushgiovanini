@@ -28,9 +28,12 @@ Redes Socias: </h1>
 <img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email: vgiovanini@sga.pucminas.br] 
 
 
-
-<img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
-![](https://komarev.com/ghpvc/?username=viniciushgiovanini&color=blue&style=flat
-
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
