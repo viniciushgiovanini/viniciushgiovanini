@@ -1,6 +1,8 @@
- <center> <img src="https://i.imgur.com/Foo0Vzp.png" width="800px"></h2></center>
+ Ola <img src="https://i.imgur.com/Foo0Vzp.png" width="800px" align="center"></h2>
 
 
+
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" />
 
 
 
@@ -11,10 +13,6 @@
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
 
 
 Here are some ideas to get you started:
