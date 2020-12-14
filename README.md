@@ -2,7 +2,7 @@
 
 
 
-<img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovainini&hide=html&layout=compact&theme=buefy" />
+<img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
 
 
 
