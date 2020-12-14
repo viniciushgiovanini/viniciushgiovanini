@@ -30,7 +30,7 @@ Redes Socias: </h1>
 
 
 <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
-![adwdwa](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=viniciushgiovanini&color=blue&style=flat
 
 
 
