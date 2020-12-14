@@ -30,7 +30,8 @@ Redes Socias:
 
 <center>
     <tr>
-    <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>        
+    <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>   
+    <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" />    
     </tr>
 </center> 
 
