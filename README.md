@@ -31,7 +31,7 @@ Redes Socias:
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>
         
     </tr>   
 </table>
