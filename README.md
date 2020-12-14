@@ -2,10 +2,17 @@
 
 
 
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
-!![](https://komarev.com/ghpvc/?username=viniciushgiovanini)
+<!--<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
+!![](https://komarev.com/ghpvc/?username=viniciushgiovanini)-->
 
-
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovainini&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
 
 
