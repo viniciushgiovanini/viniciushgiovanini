@@ -1,9 +1,11 @@
+<img src="https://i.imgur.com/Foo0Vzp.png" width="500px" align="right"></h2>
+
 Olá Bem Vindo 👋
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img src="https://i.imgur.com/Foo0Vzp.png" width="500px" align="right"></h2>
+
 
 Sobre mim:
 
