@@ -1,4 +1,4 @@
-### Olá Bem Vindo 👋 <img src="https://imgur.com/hZef7up" width"30px"></h2>
+### Olá Bem Vindo 👋 <img src="https://i.imgur.com/hZef7up.png" width"30px"></h2>
 
 
 
