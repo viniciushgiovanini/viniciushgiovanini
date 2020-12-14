@@ -21,18 +21,15 @@ Sobre mim:
 <h1>
 Redes Socias: </h1>
 
-<a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="16"></img></a> [Instagram](https://www.instagram.com/vinygiovanini/)
+<a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [Instagram](https://www.instagram.com/vinygiovanini/)
+
+<a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [Twitter](https://twitter.com/vinyhg)
+
+<img src="https://i.imgur.com/U1A61no.jpg" width="20"</img> [EMAIL]
 
 
 
-
-
-
-
-
-
-
-<td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
+<td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
 
 
 
