@@ -25,12 +25,12 @@ Redes Socias: </h1>
 
 <a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [Twitter: @vinyhg](https://twitter.com/vinyhg)
 
-<img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email: @vgiovanini@sga.pucminas.br] 
+<img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email: vgiovanini@sga.pucminas.br] 
 
 
 
-<td><img width="490px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
-
+<td><img width="40px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
 
 
 
