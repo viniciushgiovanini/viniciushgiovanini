@@ -16,21 +16,21 @@ Sobre mim:
 - 📖 CURSO: 2º Periodo - Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBY: Video Game, Músicas, Futebol
-- 📬 CONTATO: vgiovanini@sga.pucminas.br 
 
 
-Redes Socias:
+<h1>
+Redes Socias: </h1>
 
-<a href="https://www.linkedin.com/in/seu_usuário"><img src="https://github.com/seu_usuário/seu_usuário/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)
-
-
-
+<a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="16"></img></a> [Instagram](https://www.instagram.com/vinygiovanini/)
 
 
 
 
 
-<td><h1></h1></td>
+
+
+
+
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/>
 
