@@ -1,11 +1,11 @@
-### Olá Bem Vindo :) <img src="https://drive.google.com/file/d/1dwwF7mghcHtFWKdgm1UT9bbj25wxRjQP/view?usp=sharing" width="30px"></h2>
+### Olá Bem Vindo 👋 <img src="https://drive.google.com/file/d/1dwwF7mghcHtFWKdgm1UT9bbj25wxRjQP/view?usp=sharing" width="30px"></h2>
 
 
 
 
 
 
-### Olá Mundo 👋
+### Olá Mundo 
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
