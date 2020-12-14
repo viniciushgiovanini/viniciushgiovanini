@@ -1,8 +1,8 @@
- Ola <img src="https://i.imgur.com/Foo0Vzp.png" width="800px" align="center"></h2>
+<img src="https://i.imgur.com/Foo0Vzp.png" width="800px" align="center"></h2>
 
 
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_usuário&hide=html&layout=compact&theme=buefy" />
+<img width="800px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovainini&hide=html&layout=compact&theme=buefy" />
 
 
 
