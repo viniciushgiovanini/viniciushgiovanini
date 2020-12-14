@@ -1,21 +1,3 @@
-<img src="https://i.imgur.com/Foo0Vzp.png" width="1000px" align="center"></h2>
-
-
-
-<!--<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
-!![](https://komarev.com/ghpvc/?username=viniciushgiovanini) .-->
-
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/></td>
-    </tr>   
-</table>
-</center>  
-
-
-
 Olá Bem Vindo 👋
 
 <!--
@@ -29,4 +11,19 @@ Sobre mim:
 - 📖 CURSO: 2º Periodo - Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBES: Video Game, Músicas, Futebol
-- 📬 CONTATO: vgiovanini@sga.pucminas.br
+- 📬 CONTATO: vgiovanini@sga.pucminas.br <img src="https://i.imgur.com/Foo0Vzp.png" width="500px" align="right"></h2>
+
+
+
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
+
+
+
+
