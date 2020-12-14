@@ -18,8 +18,8 @@ Sobre mim:
 - 🎮 HOBBY: Video Game, Músicas, Futebol
 
 
-<h1>
-Redes Socias: </h1>
+
+Redes Socias: 
 
 <a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [Instagram @vinygiovanini](https://www.instagram.com/vinygiovanini/)
 
@@ -31,8 +31,8 @@ Redes Socias: </h1>
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" /></td>
+        
     </tr>   
 </table>
 </center> 
