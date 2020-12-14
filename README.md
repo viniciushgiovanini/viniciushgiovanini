@@ -21,11 +21,11 @@ Sobre mim:
 <h1>
 Redes Socias: </h1>
 
-<a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [Instagram](https://www.instagram.com/vinygiovanini/)
+<a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [Instagram @vinygiovanini](https://www.instagram.com/vinygiovanini/)
 
-<a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [Twitter](https://twitter.com/vinyhg)
+<a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [Twitter: @vinyhg](https://twitter.com/vinyhg)
 
-<img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email] 
+<img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [Email: @vgiovanini@sga.pucminas.br] 
 
 
 
