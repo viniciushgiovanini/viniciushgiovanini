@@ -1,4 +1,4 @@
-### Olá Bem Vindo 👋 <blockquote class="imgur-embed-pub" lang="en" data-id="hZef7up"><a href="https://imgur.com/hZef7up">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+### Olá Bem Vindo 👋 <img src="https://imgur.com/hZef7up" width"30px">
 
 
 
