@@ -2,7 +2,7 @@
 
 <h1> Olá Bem Vindo 👋 </h1>
 
-<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="150%" align="right" padding="10px"></h2>
+<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="130%" align="right" padding="10px"></h2>
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
