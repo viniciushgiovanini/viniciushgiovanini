@@ -3,7 +3,7 @@
 
 
 <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=buefy" />
-![](https://komarev.com/ghpvc/?username=viniciushgiovanini&color=blue&style=flat
+!![](https://komarev.com/ghpvc/?username=viniciushgiovanini)
 
 
 
