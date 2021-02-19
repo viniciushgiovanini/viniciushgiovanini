@@ -20,9 +20,9 @@ Sobre mim:
 
 
 Redes Socias: <ul>
-<li>Instragram: <a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [@vinygiovanini](https://www.instagram.com/vinygiovanini/)
+<li>Instragram: <a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> [@vinygiovanini]
 
-<li>Twitter: <a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [@vinyhg](https://twitter.com/vinyhg)
+<li>Twitter: <a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> [@vinyhg]
 
 <li>EMAIL: <img src="https://i.imgur.com/U1A61no.jpg" width="20"></img></a> [vgiovanini@sga.pucminas.br] 
 
