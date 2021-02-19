@@ -24,7 +24,7 @@ Redes Socias: <ul>
 
 <li><a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> Twitter: <a href="https://twitter.com/vinyhg">@vinyhg</a>
 
-<li>Email: <img src="https://i.imgur.com/U1A61no.jpg" width="20"></img> vgiovanini@sga.pucminas.br 
+<li><img src="https://i.imgur.com/U1A61no.jpg" width="20"></img> Email: vgiovanini@sga.pucminas.br 
 
 </ul>
 
