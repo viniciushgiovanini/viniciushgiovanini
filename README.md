@@ -13,7 +13,7 @@ Sobre mim:
 - 💻 Nome: Vinícius H. Giovanini
 - 🗓 IDADE: 20 Anos
 - 🇧🇷 Cidade: BH|MG
-- 📖 CURSO: 3º Periodo - Ciência da Computação
+- 📖 CURSO: Ciência da Computação
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBY: Video Game, Músicas, Futebol
 
