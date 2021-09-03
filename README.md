@@ -7,6 +7,9 @@
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/)&nbsp; 
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg)&nbsp;
+![Email](https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
 
 
 **Sobre mim**:
@@ -17,11 +20,6 @@
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBY: Video Game, Músicas, Futebol
 
-**Redes Sociais** 
-
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/)&nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg)&nbsp;
-![Email](https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
 
 **Linguagens Aprendidas**
 
