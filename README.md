@@ -19,9 +19,9 @@
 
 **Redes Sociais** 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/); @vinygiovanini
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg); @vinyhg
-[Email](https://img.shields.io/badge/-EMAIL-lightgrey?logo=Minutemailer&logoColor=white&style=flat) vgiovanini@sga.pucminas.br
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/) @vinygiovanini  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg) @vinyhg  
+[Email](https://img.shields.io/badge/-EMAIL-lightgrey?logo=Minutemailer&logoColor=white&style=flat) vgiovanini@sga.pucminas.br  
 
 
 <center>
