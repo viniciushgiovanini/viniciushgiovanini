@@ -20,7 +20,7 @@ Sobre mim:
 
 
 Redes Socias: <ul>
-<li><a href="https://www.instagram.com/vinygiovanini/"><img src="https://i.imgur.com/mdJutfB.png" width="20"></img></a> Instragram: <a href="https://www.instagram.com/vinygiovanini/">@vinygiovanini</a>
+<li>![Instagram](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)<a href="https://www.instagram.com/vinygiovanini/">@vinygiovanini</a>
 
 <li><a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> Twitter: <a href="https://twitter.com/vinyhg">@vinyhg</a>
 
