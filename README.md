@@ -9,7 +9,7 @@
 
 
 
-Sobre mim:
+**Sobre mim**:
 - 💻 Nome: Vinícius H. Giovanini
 - 🗓 IDADE: 20 Anos
 - 🇧🇷 Cidade: BH|MG
@@ -17,16 +17,12 @@ Sobre mim:
 - 📌 FACULDADE: Pontíficia Universidade Católica
 - 🎮 HOBBY: Video Game, Músicas, Futebol
 
+**Redes Sociais** 
 
+[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/); @vinygiovanini
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg); @vinyhg
+[Email](https://img.shields.io/badge/-EMAIL-lightgrey?logo=Minutemailer&logoColor=white&style=flat) vgiovanini@sga.pucminas.br
 
-Redes Socias: <ul>
-<li>![Instagram](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)<a href="https://www.instagram.com/vinygiovanini/">@vinygiovanini</a>
-
-<li><a href="https://twitter.com/vinyhg"><img src="https://i.imgur.com/cftY7TQ.png" width="20"></img></a> Twitter: <a href="https://twitter.com/vinyhg">@vinyhg</a>
-
-<li><img src="https://i.imgur.com/U1A61no.jpg" width="20"></img> Email: vgiovanini@sga.pucminas.br 
-
-</ul>
 
 <center>
     <tr>
