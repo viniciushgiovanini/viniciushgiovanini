@@ -36,10 +36,10 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)&nbsp;
 ![Pyton](https://img.shields.io/badge/-Python-green?logo=Python&logoColor=white&style=flat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-9cf?logo=Node.js&logoColor=white&style=flat)&nbps;
+![Node.js](https://img.shields.io/badge/-Node.js-9cf?logo=Node.js&logoColor=white&style=flat)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
-![React.js](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)  
+![React.js](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)   
 
 **Ferramentas Aprendidas/Utilizadas**
 
@@ -48,7 +48,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?logo=Eclipse%20IDE&logoColor=white&style=flat)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?logo=Sublime%20Text&logoColor=orange&style=flat)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-informational?logo=Windows&logoColor=white&style=flat)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-lightgrey?logo=Linux&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-lightgrey?logo=Linux&logoColor=white&style=flat)  
 ![Ubuntu](https://img.shields.io/badge/-Ubunto-orange?logo=Ubuntu&logoColor=white&style=flat)&nbsp;
 ![Terminal Linux/Windows](https://img.shields.io/badge/-Terminal-black?logo=Windows%20Terminal&logoColor=white&style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat)&nbsp;
