@@ -58,11 +58,9 @@
  
 
 
-<center>
-    <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/>    
-    </tr>
-</center> 
- <br>
- <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" />  
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/> <br>
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" /> 
+  
+
+ 
 
