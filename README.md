@@ -1,69 +1,61 @@
 
 
-<h1> Olá Bem Vindo 👋 </h1>
-
-<img src="https://i.imgur.com/BeWVOT1.gif" width="400px" height="100%" align="right" padding="10px"></h2>
+<h1>I'm Vinícius <img src="https://cdn.discordapp.com/attachments/876676172266733579/963942338378469427/Thanos_Hand_Snap.gif" width=60px></h1>
+<div>
+<a href="https://www.instagram.com/vinygiovanini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?logo=Instagram&logoColor=white&style=for-the-badge" target="_blank">
+<a href="https://twitter.com/vinyhg" target="_blank"><img src="https://img.shields.io/badge/-Twitter-6495ED?logo=Twitter&logoColor=white&style=for-the-badge" target="_blank">
+<img src="https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-DCDCDC?logo=Minutemailer&logoColor=white&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=viniciushgiovanini&color=yellow&style=for-the-badge" alt="PV">
+</div>
+<img src="https://cdn.discordapp.com/attachments/876676172266733579/968564661580595250/CERTO_Profile_Card_-_GitHub_-_300x500.gif" width="300px" height="100%" align="right" padding="10px"></h2>
 
 <!--
 **viniciushgiovanini/viniciushgiovanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-[![Instagram](https://img.shields.io/badge/-Instagram-ff69b4?logo=Instagram&logoColor=white&style=flat)](https://www.instagram.com/vinygiovanini/)&nbsp; 
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=Twitter&logoColor=whitetyle=flat)](https://twitter.com/vinyhg)&nbsp;
-![Email](https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-lightgrey?logo=Minutemailer&logoColor=white&style=flat)  
+### Infos
+
+- 📖**University**: Pontifícia Universidade Católica de Minas Gerais.
+- 👨‍💻**Course**: Computer Science.
+- 🗺**City**: Belo Horizonte, Minas Gerais, Brasil.
+- 👾**Hobby**: Filmes, Séries, Video Game, Musica e Futebol.
 
 
-**Sobre mim**:
-- 💻 Nome: Vinícius H. Giovanini
-- 🗓 IDADE: 20 Anos
-- 🇧🇷 Cidade: BH|MG
-- 📖 CURSO: Ciência da Computação
-- 📌 FACULDADE: Pontíficia Universidade Católica
-- 🎮 HOBBY: Video Game, Músicas, Futebol
+### About 
+
+- I'm a passionate student about programming and technology.
+- I'm a enthusiastic for JavaScript language and by the Linux penguin.
+- I want to help people change the current society and the future through technology.
+- “The best way to predict the future is invent it”. (Kay, Alan, 1971).
+- I'm a passionate for movies and series, mainly for Marvel, game lover in the free hours and enthusiastic for soccer.
+- Remember: “With great power comes great responsibility” (Parker, Peter).
 
 
-**Linguagens Aprendidas**
+### Favorite Languages <img src="https://cdn.discordapp.com/attachments/876676172266733579/963945233119313962/dinolove.gif" width="45px">
 
-![C](https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=flat)&nbsp;
-![Java](https://img.shields.io/badge/-Java-orange?logo=Java&logoColor=white&style=flat)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-9cf?logo=cplusplus&?logoColor=white&style=flat)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-blueviolet?logo=c-sharp&?logoColor=white&style=flat)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-red?logo=html5&logoColor=white&style=flat)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=flat)  
-
-**Linguagem/Ferramentas em Desenvolvimento**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat)&nbsp;
-![Pyton](https://img.shields.io/badge/-Python-green?logo=Python&logoColor=white&style=flat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-9cf?logo=Node.js&logoColor=white&style=flat)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-inactive?logo=MySQL&logoColor=white&style=flat)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-lightgrey?logo=PostgreSQL&logoColor=white&style=flat)&nbsp;
-![React.js](https://img.shields.io/badge/-React-blue?logo=React&logoColor=white&style=flat)   
-
-**Ferramentas Aprendidas/Utilizadas**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?logo=Visual%20Studio%20Code&logoColor=white&style=flat)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-black?logo=Vim&logoColor=white&style=flat)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-blueviolet?logo=Eclipse%20IDE&logoColor=white&style=flat)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-black?logo=Sublime%20Text&logoColor=orange&style=flat)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-informational?logo=Windows&logoColor=white&style=flat)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-lightgrey?logo=Linux&logoColor=white&style=flat)  
-![Ubuntu](https://img.shields.io/badge/-Ubunto-orange?logo=Ubuntu&logoColor=white&style=flat)&nbsp;
-![Terminal Linux/Windows](https://img.shields.io/badge/-Terminal-black?logo=Windows%20Terminal&logoColor=white&style=flat)&nbsp;
-![Git](https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-red?logo=npm&logoColor=white&style=flat)&nbsp;
-![Discord](https://img.shields.io/badge/-Discord-blue?logo=Discord&logoColor=white&style=flat)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub&logoColor=white&style=flat)&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="40px"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
+          
+  <center>
+    <tr>
+    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=radical"/> 
+    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=radical" /> 
+    </tr>
+</center>  
+          
 
 
  
 
 
-<center>
-    <tr>
-    <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=viniciushgiovanini&theme=dark"/> 
-    <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushgiovanini&hide=html&layout=compact&theme=dark" /> 
-    </tr>
-</center> 
+
+
+
   
 
  
