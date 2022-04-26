@@ -17,8 +17,8 @@
 
 - 📖**University**: Pontifícia Universidade Católica de Minas Gerais.
 - 👨‍💻**Course**: Computer Science.
-- 🗺**City**: Belo Horizonte, Minas Gerais, Brasil.
-- 👾**Hobby**: Filmes, Séries, Video Game, Musica e Futebol.
+- 🗺**City**: Belo Horizonte, Minas Gerais, Brazil.
+- 👾**Hobby**: Movies, Series, Video Game, Music and Soccer.
 
 
 ### About 
