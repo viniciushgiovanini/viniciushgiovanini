@@ -1,6 +1,6 @@
 
 
-# I'm [Vinícius](https://github.com/viniciushgiovanini) <img src="https://cdn.discordapp.com/attachments/876676172266733579/963942338378469427/Thanos_Hand_Snap.gif" width=60px>
+# I'm [Vinícius](https://github.com/viniciushgiovanini) <img src="https://cdn.discordapp.com/attachments/876676172266733579/983873088963899392/thanoshands7070.gif">
 <img src="https://cdn.discordapp.com/attachments/876676172266733579/969293502108295189/OFICIAL_Profile_Github_Melhor_definido_-_350_-_580.gif" width="315px" height="100%" align="right">
 <div>
 <a href="https://www.instagram.com/vinygiovanini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?logo=Instagram&logoColor=white&style=flat-square"></a>
@@ -32,7 +32,7 @@
 
         
 
-### Favorite Languages <img src="https://cdn.discordapp.com/attachments/876676172266733579/963945233119313962/dinolove.gif" width="45px">
+### Favorite Languages <img src="https://cdn.discordapp.com/attachments/876676172266733579/983872752257728532/dinolove7070.gif">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"/>&nbsp;
