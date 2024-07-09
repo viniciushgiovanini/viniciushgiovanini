@@ -4,7 +4,6 @@
 <img src="https://cdn.discordapp.com/attachments/876676172266733579/969293502108295189/OFICIAL_Profile_Github_Melhor_definido_-_350_-_580.gif" width="315px" height="100%" align="right">
 <div>
 <a href="https://www.instagram.com/vinygiovanini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?logo=Instagram&logoColor=white&style=flat-square"></a>
-<a href="https://twitter.com/vinyhg" target="_blank"><img src="https://img.shields.io/badge/-Twitter-6495ED?logo=Twitter&logoColor=white&style=flat-square"></a>
 <img src="https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-DCDCDC?logo=Minutemailer&logoColor=white&style=flat-square">
 <img src="https://komarev.com/ghpvc/?username=viniciushgiovanini&color=yellow&style=flat-square" alt="PV">
 </div>
