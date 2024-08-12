@@ -1,7 +1,9 @@
 
 
-# I'm [Vinícius](https://github.com/viniciushgiovanini) <img src="https://cdn.discordapp.com/attachments/876676172266733579/983873088963899392/thanoshands7070.gif">
-<img src="https://cdn.discordapp.com/attachments/876676172266733579/969293502108295189/OFICIAL_Profile_Github_Melhor_definido_-_350_-_580.gif" width="315px" height="100%" align="right">
+# I'm [Vinícius](https://github.com/viniciushgiovanini) <img src="https://cdn.discordapp.com/attachments/1272603092294172745/1272603944517894266/maothanospequena.gif?ex=66bb9448&is=66ba42c8&hm=1fc65efc51cb6b6847f649eb990cc4250474ed7eb0c55b8c31d11717820b054d&">
+
+
+<img src="https://media.discordapp.net/attachments/1272603092294172745/1272603987337809940/OFICIAL_Profile_Github_Melhor_definido_-_350_-_580.gif?ex=66bb9452&is=66ba42d2&hm=7498ad86df29eba9639998bb6203a4ca0e996c536c3c3845428d9d49f170560e&=" width="315px" height="100%" align="right">
 <div>
 <a href="https://www.instagram.com/vinygiovanini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-C71585?logo=Instagram&logoColor=white&style=flat-square"></a>
 <img src="https://img.shields.io/badge/EMAIL-vgiovanini%40sga.pucminas.br-DCDCDC?logo=Minutemailer&logoColor=white&style=flat-square">
