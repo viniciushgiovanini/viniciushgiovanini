@@ -1,6 +1,7 @@
 
 
-# I'm [Vinícius](https://github.com/viniciushgiovanini) <img src="https://cdn.discordapp.com/attachments/1272603092294172745/1272603944517894266/maothanospequena.gif?ex=66bb9448&is=66ba42c8&hm=1fc65efc51cb6b6847f649eb990cc4250474ed7eb0c55b8c31d11717820b054d&">
+# I'm [Vinícius](https://github.com/viniciushgiovanini) ![maothanospequena](https://github.com/user-attachments/assets/5b63f57f-2178-4e9b-95f7-cfc530524d9a)
+
 
 
 <img src="https://media.discordapp.net/attachments/1272603092294172745/1272603987337809940/OFICIAL_Profile_Github_Melhor_definido_-_350_-_580.gif?ex=66bb9452&is=66ba42d2&hm=7498ad86df29eba9639998bb6203a4ca0e996c536c3c3845428d9d49f170560e&=" width="315px" height="100%" align="right">
@@ -35,7 +36,8 @@
 
         
 
-### Favorite Languages <img src="https://cdn.discordapp.com/attachments/876676172266733579/983872752257728532/dinolove7070.gif">
+### Favorite Languages ![dinolove6060](https://github.com/user-attachments/assets/b2e7467e-55a7-4a35-bf60-df6f2d1089b8)
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40px"/>&nbsp;
