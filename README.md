@@ -16,7 +16,7 @@ I'm a Software Engineer and Computer Vision researcher, passionate about buildin
 
 
 💻 Software Engineer  
-🎓 BSc in Computer Science 
+🎓 BSc in Computer Science   
 🔬 Researcher in Computer Vision  
 📍 Belo Horizonte, Brazil 
 
