@@ -16,7 +16,7 @@ I'm a Software Engineer and Computer Vision researcher, passionate about buildin
 
 
 💻 Software Engineer  
-🎓 BSc in Computer Science – Pontifical Catholic University of Minas Gerais
+🎓 BSc in Computer Science – Pontifical Catholic University of Minas Gerais  
 🔬 Researcher in Computer Vision  
 📍 Belo Horizonte, Brazil 
 
@@ -44,7 +44,7 @@ I'm a Software Engineer and Computer Vision researcher, passionate about buildin
 | **Languages**       | Python · Java · C · C++ · JavaScript · TypeScript |
 | **AI & Data Science** | TensorFlow · PyTorch · Pandas · OpenCV · Apache Flink · Apache Spark |
 | **Cloud**           | AWS · Azure · GCP |
-| **Tools**           | Docker · Git · Linux |
+| **Tools**           | Docker · Git · Linux · n8n |
 | **Databases**       | MySQL · PostgreSQL · MongoDB |
 
 
